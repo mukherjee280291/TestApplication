@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>FileName</name>
+			<value>C:\Users\HRISHIKESH\Desktop\TestApps\FilePath\*.*</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1586099996900</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>PollingInterval</name>
+			<value>5</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Integer</type>
+			<modTime>1586100062462</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>
