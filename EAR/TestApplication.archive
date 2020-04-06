@@ -10,7 +10,7 @@
             <authorProperty>HRISHIKESH</authorProperty>
             <processProperty>/MainProcess/Test Application.process</processProperty>
         </processArchive>
-        <versionProperty>3</versionProperty>
+        <versionProperty>4</versionProperty>
         <authorProperty>HRISHIKESH</authorProperty>
         <addServiceSettableGvars>true</addServiceSettableGvars>
         <name>TestApplication</name>

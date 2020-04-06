@@ -13,8 +13,8 @@
         <config>
             <pollInterval>%%FileDetails/PollingInterval%%</pollInterval>
             <createEvent>true</createEvent>
-            <modifyEvent>true</modifyEvent>
-            <deleteEvent>true</deleteEvent>
+            <modifyEvent>false</modifyEvent>
+            <deleteEvent>false</deleteEvent>
             <mode>files-and-directories</mode>
             <encoding>text</encoding>
             <sortby>File Name</sortby>
